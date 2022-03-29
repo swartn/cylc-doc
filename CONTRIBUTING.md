@@ -47,7 +47,7 @@ requests_).
  - Ronnie Dutta
  - Damien François
  - (David Matthews)
- - (Neil Swart)
+ - Neil Swart
  - (TomekTrzeciak)
 <!-- end-shortlog -->
 
